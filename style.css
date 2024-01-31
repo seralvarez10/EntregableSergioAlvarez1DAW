@@ -5,3 +5,9 @@ p{
     color: red;
     font-size: larger;
 }
+img{
+    width: 450px;
+    height: 400px;
+    margin-left: 38%;
+    border-radius: 5px;
+}
